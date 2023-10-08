@@ -8,7 +8,7 @@ WANG XIU
 
 <h1 align="center">Hello, I'm OS1RIS</h1>
 <h3 align="center">| Committed to Lifelong Learning and Growth | Passionate Coder and Cybersecurity Enthusiast | CTF Player |</h3>
-<img align="right" alt="Coding" width="400" src="https://static.miraheze.org/pgrwiki/f/f1/Dialogue-Lotus-Icon.png">
+<img align="right" alt="Lucia" width="400" height="27" src="https://static.miraheze.org/pgrwiki/f/f1/Dialogue-Lotus-Icon.png">
 
 - 🌱 I’m currently learning **Cybersecurity**
 
@@ -77,6 +77,7 @@ required to excel in the field ofcomputersecurity.
 #
 
 <div align="center">
+</div>
 
 ```js
 ┌──(osiris㉿ALICE)-[~]
@@ -84,5 +85,3 @@ required to excel in the field ofcomputersecurity.
 ```
 
 ### d2FuZ3p7RDBfWTBVX1IzNERfVEgzUzM/fQo=
-
-</div>
