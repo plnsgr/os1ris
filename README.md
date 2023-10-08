@@ -73,7 +73,6 @@ required to excel in the field of computer security.
 	</ul>
 </details>
 
-#
 
 <div align="center">
 </div>
