@@ -1,14 +1,13 @@
 ## ROAMING INSIDE GIZZA
 
+<img align="right" alt="Lucia" width="400" src="https://static.miraheze.org/pgrwiki/f/f1/Dialogue-Lotus-Icon.png">
 ```js
 ┌──(osiris㉿ALICE)-[~]
 └─$ whoami
 WANG XIU
 ```
-
 <h1 align="center">Hello, I'm OS1RIS</h1>
 <h3 align="center">| Committed to Lifelong Learning and Growth | Passionate Coder and Cybersecurity Enthusiast | CTF Player |</h3>
-<img align="right" alt="Lucia" width="400" height="27" src="https://static.miraheze.org/pgrwiki/f/f1/Dialogue-Lotus-Icon.png">
 
 - 🌱 I’m currently learning **Cybersecurity**
 
