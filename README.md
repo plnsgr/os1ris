@@ -32,7 +32,7 @@ As an aspiring cybersecurity professional currently pursuing a Computer System S
 
 embedded systems engineering. With proficiency in various programming languages and Linux, I have the knowledge and skills
 
-required to excel in the field ofcomputersecurity.
+required to excel in the field of computer security.
 
 ### Talking about Personal Stuff:
 
@@ -85,4 +85,4 @@ required to excel in the field ofcomputersecurity.
 └─$ exit
 ```
 
-### d2FuZ3p7RDBfWTBVX1IzNERfVEgzUzM/fQo=
+## d2FuZ3p7RDBfWTBVX1IzNERfVEgzUzM/fQo=
