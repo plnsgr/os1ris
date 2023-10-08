@@ -11,9 +11,9 @@ WANG XIU
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 📫 How to reach me **loling.lol96@gmail.com**
+- 📫 How to reach me: **loling.lol96@gmail.com**
 
-- ⚡ Fact **I sleep alot**
+- ⚡ Fun Fact: **I sleep alot**
 
 ```js
 ┌──(osiris㉿ALICE)-[~]
@@ -67,8 +67,8 @@ required to excel in the field of computer security.
   <summary><b>Machine</b></summary>
   	<ul>
   	  <li><b>OS:</b> Windows 11/Kali Linux</li>
-  	  <li><b>Browser: </b> WSL User</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+  	  <li><b>Terminal: </b> WSL User</li>
+	    <li><b>Code Editor:</b> VSCode</li>
 	    <li><b>To Stay Updated:</b> Twitter, and Hacker News</li>
 	</ul>
 </details>
