@@ -33,9 +33,6 @@ embedded systems engineering. With proficiency in various programming languages 
 
 required to excel in the field ofcomputersecurity.
 
-
-<img align="right" height="250" width="375" alt="" src="https://static.miraheze.org/pgrwiki/f/f1/Dialogue-Lotus-Icon.png" />
-
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; Student: (Hons.) in Computer System Security
