@@ -1,7 +1,5 @@
 ## ROAMING INSIDE GIZZA
 
-<img align="right" alt="Lucia" width="400" src="https://static.miraheze.org/pgrwiki/f/f1/Dialogue-Lotus-Icon.png">
-
 ```js
 ┌──(osiris㉿ALICE)-[~]
 └─$ whoami
