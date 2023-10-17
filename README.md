@@ -1,4 +1,4 @@
-## ROAMING INSIDE G122A
+## ROAMING INSIDE G1ZZA
 
 ```js
 ┌──(osiris㉿ALICE)-[~]
