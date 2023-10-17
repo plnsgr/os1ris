@@ -3,3 +3,6 @@ logo: /asset/logo.png   # Adjust the path to your logo image
 description: Some text that I will put later. Ask your friend if they have an idea.
 show_downloads: true
 theme: jekyll-theme-minimal
+external_links:
+  - name: "CURTIN CTF 2023 WRITEUP"
+    url: "https://plnsgr.github.io/os1ris/CURTIN%20CTF/
