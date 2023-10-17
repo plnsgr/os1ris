@@ -1,4 +1,5 @@
 #General Web
+
 This challenge is continuity for Content Missing – II, but I don’t know why it’s name I. So anyway, we found the suspicious directory in the headphone photo named /homeChall. When we try to access the webpage, it just says the flag for this challenge.
 
 But when accessing using curl, there are hidden directory in the response.
