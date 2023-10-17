@@ -20,19 +20,19 @@ Welcome to the Curtin CTF 2023 writeup challenge! In this repository, you will f
 
 ### Content Missing – I
 
-![3](https://github.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image003.jpg)
+![3](https://raw.githubusercontent.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image003.png)
 
 This challenge is continuity for Content Missing – II, but I don’t know why it’s name I. So anyway, we found the suspicious directory in the headphone photo named /homeChall. When we try to access the webpage, it just says the flag for this challenge.
 
-![4](https://github.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image004.jpg?)
+![4](https://raw.githubusercontent.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image004.png)
 
 But when accessing using curl, there are hidden directory in the response.
 
-![5](https://github.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image005.jpg?)
+![5](https://raw.githubusercontent.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image005.png)
 
 So, we try to access the hidden directory and get the flag.
 
-![6](https://github.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image006.jpg?)
+![6](https://raw.githubusercontent.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image006.png)
 
 Flag: CURTIN_CTF{C0NGR4TUL4T10N5_0N_Y0UR_H0M3C0M1NG}
 
