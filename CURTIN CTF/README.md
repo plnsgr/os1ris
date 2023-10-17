@@ -101,6 +101,7 @@ Flag: CURTIN_CTF{Th15_Fl4g_15_h15hly_c0nf1d3nt14l}
 ### Hackerman
 
 (Author: 4jai & OS1RIS)
+
 ![17](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/image017.png)
 
 This webpage is straight forward as we need to login using Username Hackerman and unknown password. 
@@ -652,6 +653,7 @@ CURTIN_CTF{T00_MUCH_B45364_15_T00_MUCH_T00_H4NDL3}
 The challenge gives us credit card image to find the bank name. We analyze the image and find another card image, so we reverse search the card image and got the real image and find the bank name.
 
 ![83](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/image083.png)
+
 ![84](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/image084.jpg)
 
 ```
@@ -900,6 +902,7 @@ Flag: CURTIN_CTF{I75_4LL_R4ND0M}
 ## OSINT
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Party All Night 1
+
 (Author: Dinze)
 
 By reverse search the image given, we will get an identical image with the one given and “Palm Green Hotel and Resort” seems to be the one with the picture. Then we just need to find the restaurant and the bar name which is highlighted below.
@@ -911,6 +914,7 @@ Flag: CURTIN_CTF{Green_Chilli_Savannah}
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Party All Night 3
+
 (Author: Dinze)
 
 By reverse image search the three bag from Party all Night – 2, we can get it from the review comment. Proceed to apply the date and website name.
@@ -922,12 +926,14 @@ Flag: CURTIN_CTF{26_Feb_2022_makemytrip.com}
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Party All Night 4
+
 (Author: OS1RIS)
 
 It’s a challenge that connect to Party Night 1. Needed to find the nearest attraction place. After countless try and Countless view
 
 ![115](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/image115.png)
 ![116](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/image116.png)
+
 ![117](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/image117.png)
 
 At first I put underscore. Then try the letter only.
@@ -939,6 +945,7 @@ Flag: CTF_CURTIN{Humayun’s Tomb}
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### The Leaked IP
+
 (Author: Dinze)
 
 Try to use “ip for http://79.179.206.211/” and this appear.
@@ -965,9 +972,16 @@ Flag: CURTIN_CTF{7H3_F33B4CK_T1M3}
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Welcome !!!
 
-![121](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/image121.png)
+![122](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/image122.png)
 
 ```
 Flag: CURTIN_CTF{W3LC0M3_T0_CURT1N_CTF}
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Hall Of Fame
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![123](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/Top10.png)
+![124](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/Halloffame.jpeg)
+
+
