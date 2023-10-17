@@ -54,6 +54,10 @@ required to excel in the field of computer security.
 
 ### 50ME dEt4i1$
 
+### WRITEUP
+
+[CURTIN CTF Repository](https://plnsgr.github.io/os1ris/CURTIN%20CTF/)
+
 <details>
   <summary><b>Github Stats</b></summary>
 
@@ -81,8 +85,5 @@ required to excel in the field of computer security.
 ┌──(osiris㉿ALICE)-[~]
 └─$ exit
 ```
-### WRITEUP
-
-[CURTIN CTF Repository](https://plnsgr.github.io/os1ris/CURTIN%20CTF/)
 
 d2FuZ3p7RDBfWTBVX1IzNERfVEgzUzM/fQo=
