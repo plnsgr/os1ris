@@ -14,7 +14,6 @@ Welcome to the Curtin CTF 2023 writeup challenge! In this repository, you will f
 - [OSINT](#osint)
 - [General](#general)
 - [Hall Of Fame](#hall--Of--fame)
-- 
 ---
 
 ## General Web
