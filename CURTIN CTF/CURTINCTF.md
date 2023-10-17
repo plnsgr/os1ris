@@ -1,3 +1,9 @@
+---
+title: CURTIN CTF 2023
+layout: template
+filename: CURTINCTF.md
+--- 
+
 # Curtin CTF 2023
 ![2](https://github.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image002.jpg?raw=true)
 
