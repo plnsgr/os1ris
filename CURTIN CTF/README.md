@@ -17,7 +17,7 @@ Welcome to the Curtin CTF 2023 writeup challenge! In this repository, you will f
 ---
 
 ## General Web
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Content Missing – I
 
 ![3](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/image003.png)
