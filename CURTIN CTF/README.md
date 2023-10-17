@@ -984,6 +984,6 @@ Flag: CURTIN_CTF{W3LC0M3_T0_CURT1N_CTF}
 ## Hall Of Fame
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![123](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/Top10.png)
-![124](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/Halloffame.jpeg)
+![124](https://raw.githubusercontent.com/plnsgr/os1ris/main/CURTIN%20CTF/images/wisdom.jpeg)
 
 
