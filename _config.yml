@@ -1,8 +1,7 @@
 title: OS1RIS
-logo: /asset/logo.png
-description: Some text that i will put later. Ask ur friend if they have idea
+logo: /assets/logo.png   # Assuming your logo image is in the "assets" folder
+description: Some text that I will put later. Ask your friend if they have an idea.
 show_downloads: true
 theme: jekyll-theme-minimal
-layout: page
-title: "CURTIN-CTF-2023"
+layout: page            # Set the layout to "page"
 permalink: /curtin-ctf-2023
