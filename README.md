@@ -82,4 +82,8 @@ required to excel in the field of computer security.
 └─$ exit
 ```
 
+### WRITEUP
+
+[CURTIN CTF Repository](https://github.com/plnsgr/os1ris/tree/main/CURTIN%20CTF)
+
 d2FuZ3p7RDBfWTBVX1IzNERfVEgzUzM/fQo=
