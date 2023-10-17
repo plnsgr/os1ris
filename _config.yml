@@ -1,5 +1,5 @@
 title: OS1RIS
-logo: /assets/logo.png   # Assuming your logo image is in the "assets" folder
+logo: /os1ris/assets/logo.png   # Adjust the path to your logo image
 description: Some text that I will put later. Ask your friend if they have an idea.
 show_downloads: true
 theme: jekyll-theme-minimal
