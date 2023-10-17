@@ -1,7 +1,6 @@
 # Curtin CTF 2023
 ![2](https://github.com/plnsgr/os1ris/blob/main/CURTIN%20CTF/images/image002.jpg?raw=true)
 
-
 Welcome to the Curtin CTF 2023 writeup challenge! In this repository, you will find writeups and solutions for various challenges presented during the competition. Feel free to explore the challenges and learn from the writeups provided here.
 
 ## Navigate
