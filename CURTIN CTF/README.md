@@ -13,7 +13,8 @@ Welcome to the Curtin CTF 2023 writeup challenge! In this repository, you will f
 - [Pwn & Reverse Eng](#pwn--reverse-eng)
 - [OSINT](#osint)
 - [General](#general)
-- [Hall Of Fame](#hall--Of--fame)
+- [Hall Of Fame](#hall-Of-fame)
+
 ---
 
 ## General Web
