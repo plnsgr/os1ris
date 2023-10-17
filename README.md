@@ -83,6 +83,6 @@ required to excel in the field of computer security.
 ```
 ### WRITEUP
 
-[CURTIN CTF Repository](https://github.com/plnsgr/os1ris/tree/main/CURTIN%20CTF)
+[CURTIN CTF Repository](https://plnsgr.github.io/os1ris/CURTIN%20CTF/)
 
 d2FuZ3p7RDBfWTBVX1IzNERfVEgzUzM/fQo=
