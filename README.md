@@ -52,11 +52,11 @@ required to excel in the field of computer security.
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <code><img height="27" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"></code>
 
-### 50ME dEt4i1$
-
 ### WRITEUP
 
-[CURTIN CTF Repository](https://plnsgr.github.io/os1ris/CURTIN%20CTF/)
+[CURTIN CTF 2023](https://plnsgr.github.io/os1ris/CURTIN%20CTF/)
+
+### 50ME dEt4i1$
 
 <details>
   <summary><b>Github Stats</b></summary>
