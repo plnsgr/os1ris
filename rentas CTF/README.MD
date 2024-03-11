@@ -12,6 +12,7 @@ Welcome to the rentas CTF 2024 writeup challenge (Team scap3G04T) ! Let's learn 
 ### Forbidden Memories
 
 (Author: OS1RIS)
+
 ![2](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image2.png)
 The challenge told us to engage in the game and identify potential issues with the credit. However, there are numerous stages to navigate before reaching the credit scene at the game's ending. Initially, upon downloading the file, there is uncertainty about the .bin file's nature. It could be a CD, DVD, or ROM, representing a broad spectrum of possibilities. 
 
