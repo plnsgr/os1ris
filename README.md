@@ -55,6 +55,7 @@ required to excel in the field of computer security.
 ### WRITEUP
 
 [CURTIN CTF 2023](https://plnsgr.github.io/os1ris/CURTIN%20CTF/)
+[rentas CTF 2024](https://plnsgr.github.io/os1ris/rentas%20CTF/)
 
 ### 50ME dEt4i1$
 
