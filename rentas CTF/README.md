@@ -106,7 +106,7 @@ When you choose "Exodia the Forbidden," notice the end of the flag format. This 
 
 Searching on Google for images of all the parts of Exodia reveals a total of five parts. Now, the task is to find the remaining pieces.
 
-![25](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image25.png)
+![25](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image25.jpeg)
 
 Examining the names of the cards in the image above and cross-referencing them with the in-game card numbers, it appears that the remaining pieces start from card number 17 and go up to card number 21.
 
