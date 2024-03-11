@@ -14,24 +14,33 @@ Welcome to the rentas CTF 2024 writeup challenge (Team scap3G04T) ! Let's learn 
 (Author: OS1RIS)
 ![2](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image2.png)
 The challenge told us to engage in the game and identify potential issues with the credit. However, there are numerous stages to navigate before reaching the credit scene at the game's ending. Initially, upon downloading the file, there is uncertainty about the .bin file's nature. It could be a CD, DVD, or ROM, representing a broad spectrum of possibilities. 
+
 ![3](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image3.png)
 Yet, after analyzing it in IDA and observing the mention of "Sony Computer Entertainment," there is a probability that it is linked to a gaming platform. Now we just need to verify the file of the .bin file using binwalk
+
 ```
 Command:
 binwalk rentas.bin
 ```
+
 ![4](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image4.png)
 Checking the word "Sony" using strings command
+
 ![5](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image5.png)
 Now, we need to find a hidden clue or flag in the game's credits, as the challenge told. To Look at the names, symbols, or messages in the credits after completing the game to spot the required clue or flag, i started the ghidra and use x86 with a gcc as the compiler.
+
 ![6](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image6.png)
 Here some results summary
+
 ![7](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image7.png)
 During my search for the string in the rentas.bin file, I came across some intriguing words related to the challenge creator: "Gemas Lestari Atoy Comel Thankyou."
+
 ![8](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image8.png)
 As we scroll a bit, we've stumbled upon a clue that resembles a credit scene after completing the game. Numerous names are listed above, resembling typical credits in a game. Keep exploring to confirm if this is indeed the credit scene the challenge is referring to.
+
 ![9](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image9.png)
 ![10](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image10.png)
+
 To confirm the existence of the word, let's use the "strings" command once again to check if the specific word, "Gemas Lestari Atoy Comel Thankyou," is present in the file. This will help us validate the discovery.
 ![11](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image11.png)
 Since I couldn't locate a .bin extractor to inspect the card information for "Exodia," and we don't want to waste time, let's explore an alternative. We can try finding the Exodia card by directly booting the game. This approach may provide a quicker way to access and identify the desired card within the game itself.In the search for a .bin file linked to the game, the initial suggestion is to explore PCSX. It appears that I'm facing difficulties booting the game using PCSX. I've been exploring alternatives to launch the PS1 game through a different method, and duckstation was the most stable for my PC.
@@ -72,13 +81,18 @@ Source : https://yugioh.fandom.com/wiki/List_of_Yu-Gi-Oh!_Forbidden_Memories_car
 Now for every part:
 ![28](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image28.png)
 PART 1: RWSC{
+
 ![29](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image29.png)
 PART 2: TH3_
+
 ![30](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image30.png)
 PART 3: P0W3R_
+
 ![31](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image31.png)
 PART 4: 0f_
+
 ![32](https://raw.githubusercontent.com/plnsgr/os1ris/main/rentas%20CTF/images/image24.png)
+PART 5: 3X0D14}
 
 Combining the flag results in:
 ```
