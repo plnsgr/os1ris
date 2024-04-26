@@ -87,4 +87,4 @@ required to excel in the field of computer security.
 └─$ exit
 ```
 
-TUlJVDIwMjR7eTB1X2wzNHJuM2RfdzNsbF9nMDBkX2x1Y2t9
+bWVtb3JpZXMgb2YgdGhlIGludGVybmV0LCB3ZSBnb3R0YSBnbyAid2F5YmFjayI=
